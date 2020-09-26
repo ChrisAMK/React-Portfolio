@@ -36,8 +36,8 @@ function About() {
             <h2>Connect</h2>
           </div>
             <div className="col-12 social padding" id="socials">
-              <a href="https://www.facebook.com/donald.donga.9/" title="Click to go to Facebook"><i className="fab fa-github"></i></a>
-              <a href="https://twitter.com/Jumpman23" title="Click to go to Twitter"><i className="fab fa-linkedin"></i></a>
+              <a href="https://github.com/ChrisAMK" title="Click to go to Github"><i className="fab fa-github"></i></a>
+              <a href="https://www.linkedin.com/in/chrisamk" title="Click to go to LinkedIn"><i className="fab fa-linkedin"></i></a>
             </div>
           </div>
         </div>

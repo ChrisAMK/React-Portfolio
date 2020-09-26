@@ -1,6 +1,5 @@
 import React, { Component } from "react";
 import NavTabs from "./NavTabs";
-import Home from "./pages/Home";
 import About from "./pages/About";
 import Portfolio from "./pages/Portfolio";
 import Contact from "./pages/Contact";
@@ -8,7 +7,7 @@ import Footer from "./pages/Footer";
 
 class PortfolioContainer extends Component {
   state = {
-    currentPage: "Home"
+    currentPage: "About"
   };
 
   handlePageChange = page => {
@@ -17,8 +16,6 @@ class PortfolioContainer extends Component {
 
   getContent = () => {
     switch (this.state.currentPage) {
-      case "Home":
-        return <Home />
       case "About":
         return <About />
       case "Portfolio":
@@ -26,7 +23,7 @@ class PortfolioContainer extends Component {
       case "Contact":
         return <Contact /> 
       default:
-        return <Home />
+        return <About />
     }
   }
 

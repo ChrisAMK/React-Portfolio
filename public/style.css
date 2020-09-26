@@ -83,10 +83,6 @@ li {
     display: inline-flex;
 }
 
-article, aside, figcaption, figure, footer, header, hgroup, main, nav, section {
-    display: block;
-}
-
 .container {
     width: auto;
     max-width: 680px;
@@ -102,6 +98,11 @@ article, aside, figcaption, figure, footer, header, hgroup, main, nav, section {
     float: right;
 }
 
+.portbtn {
+    width: 200px;
+    text-align: center;
+}
+
 .rightbtn {
     background-color: #7f6764;
     color: white;
@@ -109,7 +110,6 @@ article, aside, figcaption, figure, footer, header, hgroup, main, nav, section {
     padding: 8px;
     border-radius: 7px;
     float: left;
-    width: 400px;
 }
 
 .rightbtn:hover, .leftbtn:hover {
