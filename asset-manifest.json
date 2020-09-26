@@ -1,19 +1,19 @@
 {
   "files": {
     "main.css": "/React-Portfolio/static/css/main.620774ec.chunk.css",
-    "main.js": "/React-Portfolio/static/js/main.20db1ead.chunk.js",
-    "main.js.map": "/React-Portfolio/static/js/main.20db1ead.chunk.js.map",
+    "main.js": "/React-Portfolio/static/js/main.8947317f.chunk.js",
+    "main.js.map": "/React-Portfolio/static/js/main.8947317f.chunk.js.map",
     "runtime-main.js": "/React-Portfolio/static/js/runtime-main.27e0f504.js",
     "runtime-main.js.map": "/React-Portfolio/static/js/runtime-main.27e0f504.js.map",
     "static/css/2.d9ad5f5c.chunk.css": "/React-Portfolio/static/css/2.d9ad5f5c.chunk.css",
-    "static/js/2.bd51b91e.chunk.js": "/React-Portfolio/static/js/2.bd51b91e.chunk.js",
-    "static/js/2.bd51b91e.chunk.js.map": "/React-Portfolio/static/js/2.bd51b91e.chunk.js.map",
+    "static/js/2.7e3a3c7e.chunk.js": "/React-Portfolio/static/js/2.7e3a3c7e.chunk.js",
+    "static/js/2.7e3a3c7e.chunk.js.map": "/React-Portfolio/static/js/2.7e3a3c7e.chunk.js.map",
     "index.html": "/React-Portfolio/index.html",
-    "precache-manifest.3a408115e181f3ade612040a73d6e389.js": "/React-Portfolio/precache-manifest.3a408115e181f3ade612040a73d6e389.js",
+    "precache-manifest.dcf0ef0db5afe6928f75af1e2c01e87a.js": "/React-Portfolio/precache-manifest.dcf0ef0db5afe6928f75af1e2c01e87a.js",
     "service-worker.js": "/React-Portfolio/service-worker.js",
     "static/css/2.d9ad5f5c.chunk.css.map": "/React-Portfolio/static/css/2.d9ad5f5c.chunk.css.map",
     "static/css/main.620774ec.chunk.css.map": "/React-Portfolio/static/css/main.620774ec.chunk.css.map",
-    "static/js/2.bd51b91e.chunk.js.LICENSE.txt": "/React-Portfolio/static/js/2.bd51b91e.chunk.js.LICENSE.txt",
+    "static/js/2.7e3a3c7e.chunk.js.LICENSE.txt": "/React-Portfolio/static/js/2.7e3a3c7e.chunk.js.LICENSE.txt",
     "static/media/Screen1planner.jpg": "/React-Portfolio/static/media/Screen1planner.9caf5312.jpg",
     "static/media/background.jpg": "/React-Portfolio/static/media/background.8d92eb48.jpg",
     "static/media/burger.jpg": "/React-Portfolio/static/media/burger.a6930689.jpg",
@@ -27,8 +27,8 @@
   "entrypoints": [
     "static/js/runtime-main.27e0f504.js",
     "static/css/2.d9ad5f5c.chunk.css",
-    "static/js/2.bd51b91e.chunk.js",
+    "static/js/2.7e3a3c7e.chunk.js",
     "static/css/main.620774ec.chunk.css",
-    "static/js/main.20db1ead.chunk.js"
+    "static/js/main.8947317f.chunk.js"
   ]
 }
