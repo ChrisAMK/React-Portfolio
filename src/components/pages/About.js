@@ -2,7 +2,7 @@ import React from "react";
 
 function About() {
   return (
-    <div className="container-fluid padding about">
+    <div className="container-fluid padding bottomMargin">
       <div className="row padding">
         <div className="col-12 aboutBody">
           <h1 className="title">About Me</h1>
