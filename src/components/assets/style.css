@@ -4,7 +4,7 @@ html {
 }
 body {
     margin-bottom: 60px;
-    background-image: url("./assets/background.jpg");
+    background-image: url("./background.jpg");
     background-attachment: fixed;
 }
   
@@ -21,9 +21,10 @@ body {
     font-family: 'Open Sans', sans-serif;
 }
 
-li {
+.nav-link {
     font-size: x-large;
     text-align: right;
+    color: #7f6764;
 }
 
 .navbar {
@@ -78,7 +79,7 @@ li {
 #socials a {
     padding-right: 30px;
     padding-left: 30px;
-    font-size: xx-large;
+    font-size: 55px;
     text-align: center;
     display: inline-flex;
 }
@@ -99,7 +100,7 @@ li {
 }
 
 .portbtn {
-    width: 200px;
+    width: 160px;
     text-align: center;
 }
 

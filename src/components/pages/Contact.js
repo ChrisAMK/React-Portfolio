@@ -2,7 +2,7 @@ import React from "react";
 
 function Contact() {
   return (
-    <div className="container-fluid padding">
+    <div className="container-fluid padding bottomMargin">
       <div className="row padding">
         <div className="col-12 aboutBody">
           <h1 className="title">Get in Contact</h1>

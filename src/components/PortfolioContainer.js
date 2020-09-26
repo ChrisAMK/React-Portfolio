@@ -4,44 +4,40 @@ import About from "./pages/About";
 import Portfolio from "./pages/Portfolio";
 import Contact from "./pages/Contact";
 import Footer from "./pages/Footer";
+import {
+  HashRouter as Router,
+  Switch,
+  Route,
+} from "react-router-dom";
 
 class PortfolioContainer extends Component {
-  state = {
-    currentPage: "About"
-  };
-
-  handlePageChange = page => {
-    this.setState({ currentPage: page });
-  };
-
-  getContent = () => {
-    switch (this.state.currentPage) {
-      case "About":
-        return <About />
-      case "Portfolio":
-        return <Portfolio />
-      case "Contact":
-        return <Contact /> 
-      default:
-        return <About />
-    }
-  }
+  
 
   render() {
     return (
 
-      <div className="pageContainer">
-        <NavTabs
-          currentPage={this.state.currentPage}
-          handlePageChange={this.handlePageChange}
-        />
-        <div className="container bodyWrapper">
-          {this.getContent()}
-          
+      <Router>
+        <div className="pageContainer">
+          <NavTabs/>
+            <Switch>
+              <div className="container bodyWrapper">
+                <Route exact path="/">
+                  <About />
+                </Route>
+                <Route path="/about">
+                  <About />
+                </Route>
+                <Route path="/portfolio">
+                  <Portfolio />
+                </Route>
+                <Route path="/contact">
+                  <Contact />
+                </Route>
+              </div>
+            </Switch>
+          <Footer />
         </div>
-        <Footer />
-        
-      </div>
+      </Router>
     );
   }
 }

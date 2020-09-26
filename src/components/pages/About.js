@@ -9,10 +9,10 @@ function About() {
           <hr></hr>
           <div className="row">
             <div className="col-12 col-sm-12 col-md-6 col-lg-4 leftpanel">
-              <img src={require("./proshot.jpg")} alt="selfie" id="selfie"></img>
+              <img src={require("../assets/proshot.jpg")} alt="selfie" id="selfie"></img>
             </div>
             <div className="col-12 col-sm-12 col-md-6 col-lg-8 rightpanel">
-              <p>I am Chris Klinger, a full stack web developer from an Exploration Drilling Background. From my time in the Drilling scene,
+              <p>I am Chris Klinger, a full stack web developer from an Exploration Drilling Background. In my time in the drilling,
                 i put my work ethic to the test working months straight in Australia’s hottest environments</p>
               <p>
               I freshly received a certificate from The University of Western Australia’s Full Stack Web Development
@@ -25,8 +25,8 @@ function About() {
               my skills as a full-stack web developer in a professional workplace.
               </p>
               <p>
-              Having come from a vastly different industry, I see the opportunity to apply the Team-work skills and strong work ethic
-              have gained from Drilling Rigs into Web Development.
+              Having come from a vastly different industry, I see the opportunity to apply the team-work skills and strong work ethic
+              have gained from drilling into Web Development.
               </p>
             </div>
           </div>
