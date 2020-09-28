@@ -16,10 +16,8 @@ class PortfolioContainer extends Component {
     return (
 
       <Router>
-        <div className="pageContainer">
           <NavTabs/>
             <Switch>
-              <div className="container bodyWrapper">
                 <Route exact path="/">
                   <About />
                 </Route>
@@ -32,10 +30,8 @@ class PortfolioContainer extends Component {
                 <Route path="/contact">
                   <Contact />
                 </Route>
-              </div>
             </Switch>
           <Footer />
-        </div>
       </Router>
     );
   }
