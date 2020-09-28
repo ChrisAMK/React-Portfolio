@@ -1,10 +1,9 @@
 # React Portfolio&middot; ![license](https://img.shields.io/badge/license-Academic%20Free%20License%20v3.0-blue) ![Maker's Mark](https://img.shields.io/github/repo-size/ChrisAMK/README-Generator?style=plastic)
 
 ## Description 
-```
+
 This week's task is the re-create our Professional Portfolios using our knowledge in React, React was extremely useful when sticking to the DRY (Do not Repeat) idealology for the Portfolio Page. Instead of writing HTML for every Project in the Portfolio we only have to write one component that takes in props to distinguish itself from the others. On the same leaf we can write one Navigation bar and one Footer component have it consistent through the site. We use React Router to handle the component service.
 
-```
 ## Table of Contents 
 * [Installation](#Installation)
 * [Usage](#Usage)
