@@ -2,11 +2,11 @@ import React from "react";
 
 function PortfolioCard(props) {
     let deployedBtn = "Deployed Site"
-    let deployedLink = <a className="portbtn leftbtn" href={props.deployed} target="__blank">{deployedBtn}</a>
+    let deployedLink = <button className="portbtn leftbtn"><a href={props.deployed} target="__blank">{deployedBtn}</a></button>
 
     if (props.deployed === "") {
         deployedBtn = "Unavaliable"
-        deployedLink = <p className="portbtn leftbtn">{deployedBtn}</p>
+        deployedLink = <button className="portbtn leftbtn">{deployedBtn}</button>
     }
 
     return (
@@ -17,7 +17,7 @@ function PortfolioCard(props) {
                     <hr></hr>
                     <p>{props.summary}</p>
                     {deployedLink}
-                    <a className="portbtn rightbtn" href={props.repo} target="__blank">Github Repository</a>                                    
+                    <button className="portbtn rightbtn"><a href={props.repo} target="__blank">Github Repository</a></button>
                 </div>
             </div>   
     );

@@ -25,6 +25,7 @@ body {
     font-size: x-large;
     text-align: right;
     color: #7f6764;
+    transition: .05s;
 }
 
 .navbar {
@@ -98,10 +99,18 @@ body {
     border-radius: 7px;
     float: right;
 }
+.portbtn a {
+    color: white;
+}
+
+.portbtn a:hover {
+    color: white;
+}
 
 .portbtn {
     width: 160px;
     text-align: center;
+    color: white;
 }
 
 .rightbtn {
@@ -130,4 +139,72 @@ body {
 
 .card-title {
     text-align: center;
+}
+
+.hide {
+    display: none;
+}
+
+@media (min-width:310px)  {
+    .portbtn {
+        font-size: xx-small;
+        width: 100px;
+    }
+    #ck {
+        height: 65px;
+        position: absolute;
+        margin-top: -30px;
+    }
+    .hide {
+        display: block;
+    }
+    
+}
+@media (min-width:370px)  {
+    .portbtn {
+        font-size: smaller;
+        width: 130px;
+    }
+    .hide {
+        display: block;
+    }
+    
+}
+
+@media (min-width:480px)  {
+    .portbtn {
+        width: 160px;
+        font-size: medium;
+    }
+    #ck {
+        height: 70px;
+        position: absolute;
+        margin-top: -30px;
+    }
+    .hide {
+        display: block;
+    }
+    
+}
+
+@media (min-width:700px)  {
+    .portbtn {
+        font-size: small;
+        width: 130px;
+    }
+    #ck {
+        height: 85px;
+        position: absolute;
+        margin-top: -30px;
+    }
+    .hide {
+        display: none;
+    }
+}
+
+@media (min-width:770px)  {
+    .portbtn {
+        font-size: medium;
+        width: 160px;
+    }
 }

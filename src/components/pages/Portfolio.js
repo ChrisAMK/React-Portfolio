@@ -5,11 +5,11 @@ function Portfolio() {
 
     const leftProjects = [
         {
-            title: "Employee Tracker",
-            summary: "Employee Track is a Command Line Application that lets users add Departments and Roles to a store and manage employees and their roles within the Store.",
-            repo: "https://github.com/ChrisAMK/Employee-Tracker-MySQL",
-            deployed: "",
-            image: "employee-tracker.jpg",
+            title: "Budget Tracker",
+            summary: "Budget Tracker is a Progressive Web Application that allows functionality for users to keep track of how much money they have spent even while being offline.",
+            repo: "https://github.com/ChrisAMK/Budget-Tracker",
+            deployed: "https://warm-tundra-70984.herokuapp.com/",
+            image: "budget.jpg",
             index: 1
         },
         {

@@ -11,6 +11,7 @@ function About() {
             <div className="row">
               <div className="col-12 col-sm-12 col-md-6 col-lg-4 leftpanel">
                 <img src={require("../assets/proshot.jpg")} alt="selfie" id="selfie"></img>
+                <hr className="hide"></hr>
               </div>
               <div className="col-12 col-sm-12 col-md-6 col-lg-8 rightpanel">
                 <p>I am Chris Klinger, a full stack web developer from an Exploration Drilling Background. In my time in the drilling,
