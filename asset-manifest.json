@@ -1,19 +1,20 @@
 {
   "files": {
-    "main.js": "/React-Portfolio/static/js/main.818d29b4.chunk.js",
-    "main.js.map": "/React-Portfolio/static/js/main.818d29b4.chunk.js.map",
+    "main.js": "/React-Portfolio/static/js/main.c9e1c5da.chunk.js",
+    "main.js.map": "/React-Portfolio/static/js/main.c9e1c5da.chunk.js.map",
     "runtime-main.js": "/React-Portfolio/static/js/runtime-main.27e0f504.js",
     "runtime-main.js.map": "/React-Portfolio/static/js/runtime-main.27e0f504.js.map",
     "static/css/2.d9ad5f5c.chunk.css": "/React-Portfolio/static/css/2.d9ad5f5c.chunk.css",
-    "static/js/2.44722523.chunk.js": "/React-Portfolio/static/js/2.44722523.chunk.js",
-    "static/js/2.44722523.chunk.js.map": "/React-Portfolio/static/js/2.44722523.chunk.js.map",
+    "static/js/2.606c6dda.chunk.js": "/React-Portfolio/static/js/2.606c6dda.chunk.js",
+    "static/js/2.606c6dda.chunk.js.map": "/React-Portfolio/static/js/2.606c6dda.chunk.js.map",
     "index.html": "/React-Portfolio/index.html",
-    "precache-manifest.4174f22ee3bc025b5bb5363a445c13f0.js": "/React-Portfolio/precache-manifest.4174f22ee3bc025b5bb5363a445c13f0.js",
+    "precache-manifest.e4c77bc45ffe6256ec60bb6aad019731.js": "/React-Portfolio/precache-manifest.e4c77bc45ffe6256ec60bb6aad019731.js",
     "service-worker.js": "/React-Portfolio/service-worker.js",
     "static/css/2.d9ad5f5c.chunk.css.map": "/React-Portfolio/static/css/2.d9ad5f5c.chunk.css.map",
-    "static/js/2.44722523.chunk.js.LICENSE.txt": "/React-Portfolio/static/js/2.44722523.chunk.js.LICENSE.txt",
+    "static/js/2.606c6dda.chunk.js.LICENSE.txt": "/React-Portfolio/static/js/2.606c6dda.chunk.js.LICENSE.txt",
     "static/media/Screen1planner.jpg": "/React-Portfolio/static/media/Screen1planner.9caf5312.jpg",
     "static/media/background.jpg": "/React-Portfolio/static/media/background.8d92eb48.jpg",
+    "static/media/budget.jpg": "/React-Portfolio/static/media/budget.d517c554.jpg",
     "static/media/burger.jpg": "/React-Portfolio/static/media/burger.a6930689.jpg",
     "static/media/employee-tracker.jpg": "/React-Portfolio/static/media/employee-tracker.5222becf.jpg",
     "static/media/logo.png": "/React-Portfolio/static/media/logo.b50a2041.png",
@@ -25,7 +26,7 @@
   "entrypoints": [
     "static/js/runtime-main.27e0f504.js",
     "static/css/2.d9ad5f5c.chunk.css",
-    "static/js/2.44722523.chunk.js",
-    "static/js/main.818d29b4.chunk.js"
+    "static/js/2.606c6dda.chunk.js",
+    "static/js/main.c9e1c5da.chunk.js"
   ]
 }
