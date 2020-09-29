@@ -45,15 +45,15 @@ function Portfolio() {
             summary: "Ched weather is a weather app that allows users to search for a town or city and be presented with the current weather and a 5 day forecast.",
             repo: "https://github.com/ChrisAMK/Weather-Forecast-API",
             deployed: "https://chrisamk.github.io/Weather-Forecast-API/",
-            image: "Screen1planner.jpg",
+            image: "weather.jpg",
             index: 4
         },
         {
             title: "Work Day Scheduler",
             summary: "Work Day Scheduler keeps track of the user's day buy allowing the user to enter in their activities in the hour slots that are represented by Past, Present and Future.",
             repo: "https://github.com/ChrisAMK/JavaScript-Daily-Planner",
-            deployed: "https://chrisamk.github.io/JavaScript-Daily-Planner/key.html",
-            image: "screen2api.jpg",
+            deployed: "https://chrisamk.github.io/JavaScript-Daily-Planner/index.html",
+            image: "scheduler.jpg",
             index: 6
         }
     ]
