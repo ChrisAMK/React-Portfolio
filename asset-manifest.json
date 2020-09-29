@@ -1,18 +1,17 @@
 {
   "files": {
-    "main.js": "/React-Portfolio/static/js/main.c9e1c5da.chunk.js",
-    "main.js.map": "/React-Portfolio/static/js/main.c9e1c5da.chunk.js.map",
+    "main.js": "/React-Portfolio/static/js/main.ede86cb3.chunk.js",
+    "main.js.map": "/React-Portfolio/static/js/main.ede86cb3.chunk.js.map",
     "runtime-main.js": "/React-Portfolio/static/js/runtime-main.27e0f504.js",
     "runtime-main.js.map": "/React-Portfolio/static/js/runtime-main.27e0f504.js.map",
     "static/css/2.d9ad5f5c.chunk.css": "/React-Portfolio/static/css/2.d9ad5f5c.chunk.css",
     "static/js/2.606c6dda.chunk.js": "/React-Portfolio/static/js/2.606c6dda.chunk.js",
     "static/js/2.606c6dda.chunk.js.map": "/React-Portfolio/static/js/2.606c6dda.chunk.js.map",
     "index.html": "/React-Portfolio/index.html",
-    "precache-manifest.e4c77bc45ffe6256ec60bb6aad019731.js": "/React-Portfolio/precache-manifest.e4c77bc45ffe6256ec60bb6aad019731.js",
+    "precache-manifest.7ec28682ae9ee17e229809702ff80952.js": "/React-Portfolio/precache-manifest.7ec28682ae9ee17e229809702ff80952.js",
     "service-worker.js": "/React-Portfolio/service-worker.js",
     "static/css/2.d9ad5f5c.chunk.css.map": "/React-Portfolio/static/css/2.d9ad5f5c.chunk.css.map",
     "static/js/2.606c6dda.chunk.js.LICENSE.txt": "/React-Portfolio/static/js/2.606c6dda.chunk.js.LICENSE.txt",
-    "static/media/Screen1planner.jpg": "/React-Portfolio/static/media/Screen1planner.9caf5312.jpg",
     "static/media/background.jpg": "/React-Portfolio/static/media/background.8d92eb48.jpg",
     "static/media/budget.jpg": "/React-Portfolio/static/media/budget.d517c554.jpg",
     "static/media/burger.jpg": "/React-Portfolio/static/media/burger.a6930689.jpg",
@@ -21,12 +20,13 @@
     "static/media/pong.jpg": "/React-Portfolio/static/media/pong.45459fac.jpg",
     "static/media/proshot.jpg": "/React-Portfolio/static/media/proshot.56d4cdb6.jpg",
     "static/media/quiz.jpg": "/React-Portfolio/static/media/quiz.b8e4a205.jpg",
-    "static/media/screen2api.jpg": "/React-Portfolio/static/media/screen2api.44d83950.jpg"
+    "static/media/scheduler.jpg": "/React-Portfolio/static/media/scheduler.9caf5312.jpg",
+    "static/media/weather.jpg": "/React-Portfolio/static/media/weather.44d83950.jpg"
   },
   "entrypoints": [
     "static/js/runtime-main.27e0f504.js",
     "static/css/2.d9ad5f5c.chunk.css",
     "static/js/2.606c6dda.chunk.js",
-    "static/js/main.c9e1c5da.chunk.js"
+    "static/js/main.ede86cb3.chunk.js"
   ]
 }

@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "038371254d91fcfc919faee599556202",
+    "revision": "d2738cf3c1c5e83cc798e820490bdeda",
     "url": "/React-Portfolio/index.html"
   },
   {
@@ -16,16 +16,12 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/React-Portfolio/static/js/2.606c6dda.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "a639a10eafb29942c58d",
-    "url": "/React-Portfolio/static/js/main.c9e1c5da.chunk.js"
+    "revision": "54e1916b1a3b7b520f79",
+    "url": "/React-Portfolio/static/js/main.ede86cb3.chunk.js"
   },
   {
     "revision": "0274f599536680666069",
     "url": "/React-Portfolio/static/js/runtime-main.27e0f504.js"
-  },
-  {
-    "revision": "9caf53122e8a8f16aa06c9a737f3f41e",
-    "url": "/React-Portfolio/static/media/Screen1planner.9caf5312.jpg"
   },
   {
     "revision": "8d92eb489231c8a6bdc8b4f76a07cc39",
@@ -60,7 +56,11 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/React-Portfolio/static/media/quiz.b8e4a205.jpg"
   },
   {
+    "revision": "9caf53122e8a8f16aa06c9a737f3f41e",
+    "url": "/React-Portfolio/static/media/scheduler.9caf5312.jpg"
+  },
+  {
     "revision": "44d839504f10521445f92b66ba1c6081",
-    "url": "/React-Portfolio/static/media/screen2api.44d83950.jpg"
+    "url": "/React-Portfolio/static/media/weather.44d83950.jpg"
   }
 ]);
