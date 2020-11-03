@@ -5,11 +5,11 @@ function Portfolio() {
 
     const leftProjects = [
         {
-            title: "Budget Tracker",
-            summary: "Budget Tracker is a Progressive Web Application that allows functionality for users to keep track of how much money they have spent even while being offline.",
-            repo: "https://github.com/ChrisAMK/Budget-Tracker",
-            deployed: "https://warm-tundra-70984.herokuapp.com/",
-            image: "budget.jpg",
+            title: "Safe Trucking",
+            summary: "Safe Trucking is a MERN stack Application that helps aims to help trucking companies keep track of their driver's locations and Fatigue breaks",
+            repo: "https://github.com/ChrisAMK/Safe-Trucking",
+            deployed: "https://safetrucking.herokuapp.com/",
+            image: "safetrucking.jpg",
             index: 1
         },
         {
@@ -49,12 +49,12 @@ function Portfolio() {
             index: 4
         },
         {
-            title: "Work Day Scheduler",
-            summary: "Work Day Scheduler keeps track of the user's day buy allowing the user to enter in their activities in the hour slots that are represented by Past, Present and Future.",
-            repo: "https://github.com/ChrisAMK/JavaScript-Daily-Planner",
-            deployed: "https://chrisamk.github.io/JavaScript-Daily-Planner/index.html",
-            image: "scheduler.jpg",
-            index: 6
+            title: "Budget Tracker",
+            summary: "Budget Tracker is a Progressive Web Application that allows functionality for users to keep track of how much money they have spent even while being offline.",
+            repo: "https://github.com/ChrisAMK/Budget-Tracker",
+            deployed: "https://warm-tundra-70984.herokuapp.com/",
+            image: "budget.jpg",
+            index: 1
         }
     ]
 

@@ -68,7 +68,13 @@ body {
 }
 
 #selfie {
-    width: 100%;
+    width: 200px;
+}
+
+#imgbox {
+    width: 260px;
+    float: left;
+    padding: 20px;
 }
 
 #ck {
@@ -143,6 +149,14 @@ body {
 
 .hide {
     display: none;
+}
+
+.fleft {
+    float: left;
+}
+
+.fright {
+    float: right;
 }
 
 @media (min-width:310px)  {
